@@ -16,3 +16,7 @@ deployment text
 
 ## How to contribute
 
+### Copyright
+
+2014
+
