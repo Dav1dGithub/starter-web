@@ -7,7 +7,7 @@ David davidemail
 
 # THANKS
 
-    <name>
+text
 
 # TECHNOLOGY COLOPHON
 
