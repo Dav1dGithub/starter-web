@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This is a simple website project
+some more text
 
 ## Introduction
 
