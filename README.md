@@ -8,7 +8,11 @@ This is an example
 
 ## Purpose
 
+purpose text
+
 ## Deployment
+
+deployment text
 
 ## How to contribute
 
